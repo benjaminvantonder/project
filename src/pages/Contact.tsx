@@ -153,22 +153,10 @@ Hi! I'm ${name}.
                 </h3>
                 <div className="flex space-x-4">
                   <a
-                    href="#"
+                    href="https://www.facebook.com/StellerIndustries.Sound.Lighting/"
                     className="w-10 h-10 bg-blue-500/20 border border-blue-500/30 rounded-full flex items-center justify-center hover:border-blue-400 transition-colors"
                   >
                     <Facebook className="h-5 w-5 text-blue-400" />
-                  </a>
-                  <a
-                    href="#"
-                    className="w-10 h-10 bg-blue-500/20 border border-blue-500/30 rounded-full flex items-center justify-center hover:border-blue-400 transition-colors"
-                  >
-                    <Instagram className="h-5 w-5 text-blue-400" />
-                  </a>
-                  <a
-                    href="#"
-                    className="w-10 h-10 bg-blue-500/20 border border-blue-500/30 rounded-full flex items-center justify-center hover:border-blue-400 transition-colors"
-                  >
-                    <Twitter className="h-5 w-5 text-blue-400" />
                   </a>
                 </div>
               </div>
